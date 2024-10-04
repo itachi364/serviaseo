@@ -29,3 +29,6 @@ Modificaciones de codigo
 El proyecto cuenta con documentación de consumo de los servicios, esta se encuentra en la siguiente URL http://localhost:8081/swagger-ui/index.html#/
 a esta documentación solo podra acceder una vez iniciado el proyecto
 
+#
+Tambien puedes usar el archivo ServiAseo.postman_collection.json para migrar la colección de servicios a tu POSTMAN y poder consumirlos facilmente
+
