@@ -16,7 +16,6 @@ Configuración del Proyecto
 5. para ejecutarlo sin la necesidad de abrir un IDE se puede realizar de 3 maneras
 
  a. ejecutar mvn spring-boot:run en la carpeta del proyecto
- 
  b. ejecutar mvn clean install para compilar .jar y ejecutar el .jar directamente ya sea desde windows o desde linux, no se requieren mas configuraciones ya que el proyecto maneja un tomcat embebido
  c. Usar el IDE de desarrollo para ejecutar el proyecto en ambiente de desarrollo
 
